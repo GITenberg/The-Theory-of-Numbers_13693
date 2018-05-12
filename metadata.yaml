@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5198
     wikipedia: http://en.wikipedia.org/wiki/Robert_Daniel_Carmichael
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13693#The-Theory-of-Numbers
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2004-10-10'
 gutenberg_type: Text

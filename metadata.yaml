@@ -27,5 +27,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Number theory'
 - !lcc 'QA'
+- GITenberg
 title: The Theory of Numbers
 url: http://www.gutenberg.org/ebooks/13693
